@@ -8,7 +8,9 @@ This repository contains a simple deep learning model for classifying images of 
 The dataset contains images of my two cats, Gucio and Pulpet. Each image is labeled based on which cat is shown. The images are split into three sets:
 
 Training Set: Images used to train the model.
+
 Validation Set: Images used to validate the model's performance during training.
+
 Test Set: Images used to evaluate the final model after training.
 
 
