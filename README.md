@@ -3,7 +3,8 @@
 
 This repository contains a simple deep learning model for classifying images of cats using Convolutional Neural Networks (CNN) in Keras/TensorFlow.
 
-Dataset
+# Dataset
+
 The dataset contains images of my two cats, Gucio and Pulpet. Each image is labeled based on which cat is shown. The images are split into three sets:
 
 Training Set: Images used to train the model.
