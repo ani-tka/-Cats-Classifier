@@ -16,5 +16,8 @@ Test Set: Images used to evaluate the final model after training.
 
 ![image](https://github.com/user-attachments/assets/2f066211-a0f2-4796-8c40-3ed8dad85fe5)
 
-The result:
+
+The results:
+
+
 ![image](https://github.com/user-attachments/assets/39536ead-c848-4e71-b161-45e80e96bd1a)
