@@ -4,4 +4,4 @@
 This repository contains a simple deep learning model for classifying images of cats using Convolutional Neural Networks (CNN) in Keras/TensorFlow.
 
 
-![image](https://github.com/user-attachments/assets/7ee5ed94-d082-4da3-ab9a-fd7f40af7792)
+![image](https://github.com/user-attachments/assets/2f066211-a0f2-4796-8c40-3ed8dad85fe5)
